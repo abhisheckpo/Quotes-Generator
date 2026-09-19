@@ -15,13 +15,13 @@ A simple, elegant Android app that serves up inspirational quotes with a modern,
 ## Screenshots 
 
 
-<img width="582" height="840" alt="image" src="https://github.com/user-attachments/assets/96dbb09a-53b8-488c-a59c-124f3766a8ad" />
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/96dbb09a-53b8-488c-a59c-124f3766a8ad" />
 
 
-<img width="592" height="831" alt="image" src="https://github.com/user-attachments/assets/e4ef142e-eadc-4ad9-a7f8-71599dca891a" />
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/e4ef142e-eadc-4ad9-a7f8-71599dca891a" />
 
 
-<img width="585" height="835" alt="image" src="https://github.com/user-attachments/assets/5c422adf-7b5f-47b9-9a8a-6dec32485d25" />
+<img width="250" height="500" alt="image" src="https://github.com/user-attachments/assets/5c422adf-7b5f-47b9-9a8a-6dec32485d25" />
 
 
 
